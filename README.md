@@ -1,1 +1,3 @@
-# tt
+My Simple Tiktok Checker
+
+Enjoy .. :)
